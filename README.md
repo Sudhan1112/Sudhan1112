@@ -1,4 +1,4 @@
-# Hi, there 👋 It's me Sudhan
+# Hi, there 👋 I am Sudhan
 <img align="right" width="375" height = "275" src="https://www.bing.com/th/id/OGC.8190a1dce0daf6e56c705dba6e07d27f?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1162077%2fscreenshots%2f3848914%2fmedia%2f7ed7d5ca074b48b328150e5a231e8d1f.gif&ehk=yfWGjxVdMyutc3PzmgwWFsl8m3f6cw73MpQtLlB2Wf8%3d">
 
 #### Aspiring Software Development Engineer
