@@ -16,7 +16,7 @@
 <br/>Mail📫 me anytime: sudhansudhan83@gmail.com
 
 <br/>
-😄 Pronouns: Techie
+😄 Pronouns: Sudhan
 <br/>
 ⚡ Fun fact: Fitness enthusiast!
 
