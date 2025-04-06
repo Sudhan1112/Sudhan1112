@@ -34,6 +34,18 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhan1112&bg_color=000000&color=edda07&line=c70a65&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhan1112&show_icons=true&locale=en&theme=tokyonight" alt="sudhan1112" /></p>
+
+
+<p align="center">&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=sudhan1112&show_icons=true&locale=en&theme=tokyonight" alt="sudhan1112" /></p>
+
+<div class="graph-1">
+  <p align="center"><a href="https://github.com/sudhan1112"><img align="center" width="90%"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhan1112&amp;theme=dracula&amp;bg_color=0D1117"/></a>
+  </p>
+</div>
+
+
 <!---
 Sudhan1112/Sudhan1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
