@@ -30,9 +30,6 @@
 #### 💻 Workspace Spec
 <img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i5 8th Gen Badge" /> <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX1050 Badge" />
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sudhanssudhan83?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/u/sudhanssudhan83/)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhan1112&bg_color=000000&color=edda07&line=c70a65&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhan1112&show_icons=true&locale=en&theme=tokyonight" alt="sudhan1112" /></p>
 
@@ -45,6 +42,7 @@
   </p>
 </div>
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sudhanssudhan83?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/u/sudhanssudhan83/)
 
 <!---
 Sudhan1112/Sudhan1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
