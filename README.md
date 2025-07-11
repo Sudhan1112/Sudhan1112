@@ -30,7 +30,9 @@
 #### 💻 Workspace Spec
 <img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i5 8th Gen Badge" /> <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX1050 Badge" />
 
-<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhan1112&show_icons=true&locale=en&theme=tokyonight" alt="sudhan1112" /></p>
+<p align="center">
+  <img align="center" width="90%" src="https://streak-stats.demolab.com?user=sudhan1112&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 <p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=sudhan1112&show_icons=true&locale=en&theme=tokyonight" alt="sudhan1112" /></p>
 
