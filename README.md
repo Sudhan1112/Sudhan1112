@@ -42,8 +42,13 @@
   </p>
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sudhanssudhan83?theme=wtf&font=Baloo%202&ext=activity)
+<p>
+  <img align="center" width="90%" src="https://leetcard.jacoblin.cool/sudhanssudhan83?theme=light&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
+</p>
 
+<p>
+  <img align="center" width="90%" src="https://gfgstatscard.vercel.app/sudhanss4b9x?theme=light" alt="GeeksforGeeks Stats" />
+</p>
 <!---
 Sudhan1112/Sudhan1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
