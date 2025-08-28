@@ -42,7 +42,7 @@
   </p>
 </div>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sudhanssudhan83?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/u/sudhanssudhan83/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sudhanssudhan83?theme=wtf&font=Baloo%202&ext=activity)
 
 <!---
 Sudhan1112/Sudhan1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
