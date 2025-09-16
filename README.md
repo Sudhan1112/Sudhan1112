@@ -5,7 +5,7 @@
 
 - 💻 Learning OOP & DSA
 - 🔧 Upgrading web dev skills
-- ⚙️ Exploring scalable backend APIs
+- ⚙️ Exploring and learning different parts of backend technologies.
 - 📊 Improving database queries
 - 🤝 Open to full-stack collabs
 - 🌱 Passionate about system design
