@@ -30,25 +30,57 @@
 #### 💻 Workspace Spec
 <img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i5 8th Gen Badge" /> <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX1050 Badge" />
 
-<p>
-  <img align="center" width="90%" src="https://streak-stats.demolab.com?user=sudhan1112&theme=tokyonight" alt="GitHub Streak" width="90%" />
-</p>
+<div align="center">
 
-<p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=sudhan1112&show_icons=true&locale=en&theme=tokyonight" alt="sudhan1112" /></p>
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=sudhan1112&theme=tokyonight&hide_border=false" 
+    alt="GitHub Streak" 
+    width="90%" 
+  />
+  <br/><br/>
 
-<div class="graph-1">
-  <p><a href="https://github.com/sudhan1112"><img align="center" width="90%"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhan1112&amp;theme=dracula&amp;bg_color=0D1117"/></a>
-  </p>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sudhan1112&show_icons=true&theme=tokyonight&hide_border=false" 
+    alt="GitHub Stats" 
+    width="90%" 
+  />
+  <br/><br/>
+
+  <!-- GitHub Profile Summary -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhan1112&theme=tokyonight" 
+    alt="GitHub Summary" 
+    width="90%" 
+  />
+  <br/><br/>
+
+  <!-- LeetCode Stats -->
+  <img 
+    src="https://leetcard.jacoblin.cool/sudhanssudhan83?theme=dark&font=Baloo%202&ext=activity" 
+    alt="LeetCode Stats" 
+    width="90%" 
+  />
+  <br/><br/>
+
+  <!-- GeeksforGeeks Stats -->
+  <img 
+    src="https://gfgstatscard.vercel.app/sudhanss4b9x?theme=dark" 
+    alt="GeeksforGeeks Stats" 
+    width="90%" 
+  />
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhan1112&layout=compact&card_width=800&langs_count=8&theme=tokyonight&hide_border=false"
+    alt="Top Languages" 
+    width="90%" 
+  />
+
 </div>
 
-<p>
-  <img align="center" width="90%" src="https://leetcard.jacoblin.cool/sudhanssudhan83?theme=light&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
-</p>
-
-<p>
-  <img align="center" width="90%" src="https://gfgstatscard.vercel.app/sudhanss4b9x?theme=light" alt="GeeksforGeeks Stats" />
-</p>
 <!---
 Sudhan1112/Sudhan1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
