@@ -74,7 +74,7 @@
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhan1112&layout=compact&card_width=800&langs_count=8&theme=tokyonight&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhan1112&layout=compact&card_width=800&langs_count=20&theme=tokyonight&hide_border=false"
     alt="Top Languages" 
     width="90%" 
   />
